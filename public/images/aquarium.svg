@@ -1,0 +1,14 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#03a9f4"/>
+  <path d="M 0 150 C 100 100, 200 200, 300 100 S 400 150, 500 100" fill="#01579b"/>
+  <path d="M 0 220 C 100 170, 200 270, 300 170 S 400 220, 500 170" fill="#0277bd"/>
+  <ellipse cx="150" cy="120" rx="20" ry="10" fill="#ffeb3b"/>
+  <path d="M 150 120 L 170 110 L 170 130 Z" fill="#ffeb3b"/>
+  <ellipse cx="350" cy="180" rx="15" ry="8" fill="#4caf50"/>
+  <path d="M 350 180 L 365 173 L 365 187 Z" fill="#4caf50"/>
+  <path d="M 250 250 C 230 230, 240 210, 260 220 S 280 210, 270 240 Z" fill="#e91e63"/>
+  <ellipse cx="100" cy="200" rx="10" ry="5" fill="#ffffff" opacity="0.6"/>
+  <ellipse cx="300" cy="150" rx="8" ry="4" fill="#ffffff" opacity="0.6"/>
+  <ellipse cx="400" cy="220" rx="12" ry="6" fill="#ffffff" opacity="0.6"/>
+  <text x="250" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">Oceanic Aquarium</text>
+</svg>

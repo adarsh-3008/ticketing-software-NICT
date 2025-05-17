@@ -1,0 +1,10 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#e0e0e0"/>
+  <path d="M 50 200 C 50 180, 100 150, 150 200 S 250 180, 300 200 S 400 150, 450 200" stroke="#e91e63" stroke-width="10" fill="none"/>
+  <path d="M 100 200 L 100 150 L 120 150 L 120 200 Z" fill="#ff5722"/>
+  <path d="M 150 200 L 150 100 L 170 100 L 170 200 Z" fill="#9c27b0"/>
+  <path d="M 200 200 L 200 120 L 220 120 L 220 200 Z" fill="#2196f3"/>
+  <path d="M 250 200 L 250 80 L 270 80 L 270 200 Z" fill="#f44336"/>
+  <circle cx="350" cy="100" r="40" fill="#ffeb3b"/>
+  <text x="250" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#333333">Adventure Theme Park</text>
+</svg>

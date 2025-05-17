@@ -1,0 +1,8 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#6fbbd3"/>
+  <path d="M 50 200 C 50 150, 150 100, 200 200 C 250 250, 350 150, 400 200" stroke="#0056b3" stroke-width="30" fill="none"/>
+  <circle cx="100" cy="100" r="30" fill="#ff9933"/>
+  <rect x="300" y="80" width="100" height="80" fill="#2cb5e8"/>
+  <path d="M 350 80 L 400 30 L 450 80 Z" fill="#0099cc"/>
+  <text x="250" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">Aqua Paradise Water Park</text>
+</svg>
